@@ -1,0 +1,14 @@
+layout_spectrum: 0.2046872538048774
+typography_spectrum: 0.6334888169076294
+color:
+  brandStrength: 0.7707836921326816
+  lightness: 0.382224460830912
+  saturation: 0.5919116283766925
+  rhythmicContrast: 0.1286283244844526
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: technostropic
